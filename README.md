@@ -9,10 +9,15 @@ O Task Tracker CLI é uma ferramenta de linha de comando para gerenciamento de t
 **✨ Funcionalidades**
 
 ✅ Adicionar novas tarefas
+
 ✏️ Atualizar descrições de tarefas existentes
+
 🗑️ Deletar tarefas
+
 🔄 Alterar status das tarefas (todo, in-progress, done)
+
 📋 Listar todas as tarefas ou filtrar por status
+
 💾 Armazenamento persistente em arquivo JSON
 
 **🚀 Instalação**
